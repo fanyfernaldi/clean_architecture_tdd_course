@@ -1,0 +1,19 @@
+{
+	"arrange act assert": {
+		"prefix": "aaa",
+		"body": [
+			"test(",
+			"  'should $1',",
+			"  ()async {",
+			"    //arange",
+			"    $2",
+			"    //act",
+			"    $3",
+			"    //assert",
+			"    $4",
+			"  }",
+			")"
+		],
+		"description": "arrange act assert"
+	}
+}
