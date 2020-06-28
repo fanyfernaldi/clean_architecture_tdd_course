@@ -1,8 +1,10 @@
 # clean_architecture_tdd_course
 
-![Alt text](relative/https://www.google.com/url?sa=i&url=https%3A%2F%2Fresocoder.com%2F2019%2F08%2F27%2Fflutter-tdd-clean-architecture-course-1-explanation-project-structure%2F&psig=AOvVaw2LE3xGRHrv_cd28MGv5pwJ&ust=1593436170311000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCBsNTKpOoCFQAAAAAdAAAAABAD/to/img.jpg?raw=true "Title")
+struktur TDD flutter
+![struktur tdd flutter](https://user-images.githubusercontent.com/36123691/85949120-1a36b700-b97f-11ea-8867-dd8fe17eb3ea.png)
 
-![alt text](relative/https://www.google.com/url?sa=i&url=https%3A%2F%2Fresocoder.com%2F2019%2F08%2F27%2Fflutter-tdd-clean-architecture-course-1-explanation-project-structure%2F&psig=AOvVaw2LE3xGRHrv_cd28MGv5pwJ&ust=1593436170311000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCBsNTKpOoCFQAAAAAdAAAAABAI/to/img.jpg?raw=true "Title")
+urutan penulisan tdd flutter
+![urutan penulisan tdd flutter](https://user-images.githubusercontent.com/36123691/85949152-46523800-b97f-11ea-920d-afc147689e70.jpg)
 
 penjelasan: https://resocoder.com/flutter-clean-architecture-tdd/
 source (Reso Coder YT Channel)
