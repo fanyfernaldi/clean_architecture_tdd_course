@@ -35,7 +35,7 @@ void main() {
         //function, and this Future contain a bool.. So, would we usually do here is that we would
         //say then answer async, and we will answer with, for example true, just for testing purposes.
         //And this would retrun a new instance of Future which we would in the able to await
-        when(mockDataConnectionChecker.hasConnection).thenAnswer((_) async => tHasConnectionFuture);
+        when(mockDataConnectionChecker.hasConnection).thenAnswer((_) => tHasConnectionFuture);
         // act
         //get the resullt from calling the actual networkInfo.isConnected
         //we not use await on netWorkInfo.isConnected, so the result is no longer(tidak lagi) a boolean
