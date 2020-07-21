@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
+import 'injection_container.dart' as di;
 
-void main() {
+void main() async {
+  //it's important to await the Future even though it only contains void. We definitely don't want
+  //the UI to be built up before any of the dependencies had a chance to be registered
+  await di.init();
   runApp(MyApp());
 }
 
